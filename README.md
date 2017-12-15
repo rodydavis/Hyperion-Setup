@@ -17,5 +17,7 @@ https://hyperion-project.org/wiki/HyperCon-Information
 
 
 Useful Guides:
+- General Guide
 https://hyperion-project.org/threads/diy-amblight-project-guide-hyperion-ws2801-ws2812b-apa102.8/
+- How to Solder
 [![How to Solder](https://img.youtube.com/vi/VxMV6wGS3NY/0.jpg)](https://www.youtube.com/watch?v=VxMV6wGS3NY)
