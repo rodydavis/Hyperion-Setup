@@ -15,6 +15,15 @@ https://hyperion-project.org
 HyperCon GUI Config Tool: 
 https://hyperion-project.org/wiki/HyperCon-Information
 
+Hyperion Remote (iOS):
+https://itunes.apple.com/us/app/hyperion-remote/id943635503?mt=8
+
+Hyperion Remote (Android):
+https://play.google.com/store/apps/details?id=nl.hyperion.hyperionfree
+
+Hyperion Remote (Web):
+http://gamadril.github.io/hyperion-remote
+
 Important Notes:
 - On this configuration with the WS2812b lights I had to set the order from RGB to GRB.
 - In order to get Hyperion talking with FastLED I needed to needed to set my Light Type to ADALight.
