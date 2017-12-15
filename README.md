@@ -16,6 +16,10 @@ HyperCon GUI Config Tool:
 https://hyperion-project.org/wiki/HyperCon-Information
 
 
+![Finished Hub](https://i.imgur.com/hko62Wp.jpg)
+
+![Back of TV](https://i.imgur.com/M15SLg8.jpg)
+
 Useful Guides:
 
 - General Guide
