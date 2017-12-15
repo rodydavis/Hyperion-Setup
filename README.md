@@ -17,10 +17,8 @@ https://hyperion-project.org/wiki/HyperCon-Information
 
 Hyperion Remote (iOS):
 https://itunes.apple.com/us/app/hyperion-remote/id943635503?mt=8
-
 Hyperion Remote (Android):
 https://play.google.com/store/apps/details?id=nl.hyperion.hyperionfree
-
 Hyperion Remote (Web):
 http://gamadril.github.io/hyperion-remote
 
