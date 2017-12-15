@@ -29,7 +29,7 @@ Important Notes:
 
 ![Finished Hub](https://i.imgur.com/hko62Wp.jpg)
 
-All of the componets run off 1 5V 10A Powersource. The HDMI Splitter is actually powered from the input and even with this setup my Xbox One S will still turn on and off my TV no problem. 
+All of the componets run off 1 5V 10A Powersource. The HDMI Splitter is actually powered from the input and even with this setup my Xbox One S will still turn on and off my TV no problem. All of the components fit in a IKEA tool box that comes with Zip Ties.
 
 ![Back of TV](https://i.imgur.com/M15SLg8.jpg)
 
