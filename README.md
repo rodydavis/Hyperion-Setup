@@ -8,6 +8,10 @@ https://www.raspberrypi.org/downloads/raspbian/
 
 Arduino Software: 
 https://www.arduino.cc/en/Main/Software
+- See FastLED Sketch for Arduino in Project folder
+
+FastLED Library:
+https://github.com/FastLED/FastLED/releases/tag/v3.1.6
 
 Hyperion Offical Site: 
 https://hyperion-project.org
