@@ -44,6 +44,8 @@ All of the componets run off 1 5V 10A Powersource. The HDMI Splitter is actually
 
 In the Amazon list I included a LED strip extender, had I known this at the time of the build i would not have wasted 4 hours soldering the LED Strips on my TV on my bed. 
 
+![Complete!](https://i.imgur.com/cyucgzg.jpg)
+
 Useful Guides:
 
 - General Guide
