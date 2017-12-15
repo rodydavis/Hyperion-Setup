@@ -15,10 +15,25 @@ https://hyperion-project.org
 HyperCon GUI Config Tool: 
 https://hyperion-project.org/wiki/HyperCon-Information
 
+Important Notes:
+- On this configuration with the WS2812b lights I had to set the order from RGB to GRB.
+- In order to get Hyperion talking with FastLED I needed to needed to set my Light Type to ADALight.
+  How to find device path (Output) in Hypercon...
+  1. SSH into Rasberry PI
+  2. lsusb
+  3. ls /dev
+  You should see the arduino listed. If not run the command without the arduino plugged in, then again with it plugged in.
+- You need to use the V2 Grabber and adjust the crop borders
+- MAKE SURE YOU CORRECTLY SPECIFIY THE LED DIRECTION
+
 
 ![Finished Hub](https://i.imgur.com/hko62Wp.jpg)
 
+All of the componets run off 1 5V 10A Powersource. The HDMI Splitter is actually powered from the input and even with this setup my Xbox One S will still turn on and off my TV no problem. 
+
 ![Back of TV](https://i.imgur.com/M15SLg8.jpg)
+
+In the Amazon list I included a LED strip extender, had I known this at the time of the build i would not have wasted 4 hours soldering the LED Strips on my TV on my bed. 
 
 Useful Guides:
 
