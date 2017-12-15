@@ -30,13 +30,19 @@ http://gamadril.github.io/hyperion-remote
 
 Important Notes:
 - On this configuration with the WS2812b lights I had to set the order from RGB to GRB.
+
 - In order to get Hyperion talking with FastLED I needed to needed to set my Light Type to ADALight.
+
   How to find device path (Output) in Hypercon...
+  
   1. SSH into Rasberry PI
-  2. lsusb
-  3. ls /dev
+  2. Run Command "lsusb"
+  3. Run Command "ls /dev"
+  
   You should see the arduino listed. If not run the command without the arduino plugged in, then again with it plugged in.
+  
 - You need to use the V2 Grabber and adjust the crop borders
+
 - MAKE SURE YOU CORRECTLY SPECIFIY THE LED DIRECTION
 
 
