@@ -1,6 +1,8 @@
 # Hyperion-Setup
 This is a 100% compatible and affordable Hyperion Set up with 2017 Hardware for a 55" TV.
 
+## Getting Started
+
 Here you can get all the hardware and supplies needed on Amazon Prime: http://a.co/6YOCJRK
 
 Download Rasbian Stretch Lite: 
@@ -28,7 +30,7 @@ https://play.google.com/store/apps/details?id=nl.hyperion.hyperionfree
 Hyperion Remote (Web):
 http://gamadril.github.io/hyperion-remote
 
-Important Notes:
+## Important Notes
 - On this configuration with the WS2812b lights I had to set the order from RGB to GRB.
 
 - In order to get Hyperion talking with FastLED I needed to needed to set my Light Type to ADALight.
@@ -56,7 +58,7 @@ In the Amazon list I included a LED strip extender, had I known this at the time
 
 ![Complete!](https://i.imgur.com/cyucgzg.jpg)
 
-Useful Guides:
+## Useful Guides
 
 - General Guide
 
