@@ -60,14 +60,12 @@ In the Amazon list I included a LED strip extender, had I known this at the time
 
 ## Useful Guides
 
-- General Guide
+- [General Guide](https://hyperion-project.org/threads/diy-amblight-project-guide-hyperion-ws2801-ws2812b-apa102.8/)
 
-https://hyperion-project.org/threads/diy-amblight-project-guide-hyperion-ws2801-ws2812b-apa102.8/
-
-- Video on a Similar Setup
+### Similar Setup
 
 [![Ambilight Setup](https://img.youtube.com/vi/JvcR2td1Cso/0.jpg)](https://www.youtube.com/watch?v=JvcR2td1Cso)
 
-- How to Solder
+### How to Solder
 
 [![How to Solder](https://img.youtube.com/vi/VxMV6wGS3NY/0.jpg)](https://www.youtube.com/watch?v=VxMV6wGS3NY)
