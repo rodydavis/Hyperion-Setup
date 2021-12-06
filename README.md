@@ -3,7 +3,8 @@ This is a 100% compatible and affordable Hyperion Set up with 2017 Hardware for 
 
 ## Getting Started
 
-Here you can get all the hardware and supplies needed on Amazon Prime: http://a.co/6YOCJRK
+Here you can get all the hardware and supplies needed on Amazon Prime: 
+http://a.co/6YOCJRK
 
 Download Rasbian Stretch Lite: 
 https://www.raspberrypi.org/downloads/raspbian/
